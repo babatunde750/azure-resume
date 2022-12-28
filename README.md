@@ -1,2 +1,2 @@
 # azure-resume
-Azure resume project based on ACG projects,.
+Azure resume project based on ACG projects.
